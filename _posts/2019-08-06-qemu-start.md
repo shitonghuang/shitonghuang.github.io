@@ -68,7 +68,7 @@ x86 平台的可执行程序位置为 /x86_64-softmmu/qemu-system-x86_64
 ```
 表示使用 4 个核心，Skylake-Server CPU model 模式
 关于 QEMU CPU Model 请参考
-[QEMU CPU Model](2019-08-07-qemu-cpu-model.md)
+[QEMU CPU Model](https://taoxu916.github.io/2019/08/07/qemu-cpu-model/)
 ### 内存参数
 ```sh
 -m 3G,slots=4,maxmem=32G \
